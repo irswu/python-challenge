@@ -1,0 +1,24 @@
+Last login: Thu Jan 12 15:55:24 on ttys001
+(base) iriswu@Iriss-MacBook-Pro ~ % cd python-challenge 
+(base) iriswu@Iriss-MacBook-Pro python-challenge % cd Pybank/
+(base) iriswu@Iriss-MacBook-Pro Pybank % python3 main.py 
+Financial Analysis
+-------------------------
+Total Months: 86 
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits:Jul-16 ($1862002)
+Greatest Decrease in Profits:Jan-14 ($-1825558)
+(base) iriswu@Iriss-MacBook-Pro Pybank % 
+
+
+
+
+
+
+
+
+
+
+
+

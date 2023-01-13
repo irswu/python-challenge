@@ -1,0 +1,24 @@
+Last login: Thu Jan 12 21:43:18 on ttys001
+(base) iriswu@Iriss-MacBook-Pro ~ % cd python-challenge 
+(base) iriswu@Iriss-MacBook-Pro python-challenge % cd PyPoll/
+(base) iriswu@Iriss-MacBook-Pro PyPoll % python3 main.py 
+Election Results
+-------------------
+Total Votes: 
+-------------------
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+-------------------
+Winner: Diana DeGette
+-------------------
+(base) iriswu@Iriss-MacBook-Pro PyPoll % 
+
+
+
+
+
+
+
+
+
